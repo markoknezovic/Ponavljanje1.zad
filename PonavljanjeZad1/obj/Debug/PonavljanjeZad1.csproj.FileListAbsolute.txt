@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\obj\Debug\PonavljanjeZad1.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\obj\Debug\PonavljanjeZad1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\bin\Debug\PonavljanjeZad1.exe.config
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\bin\Debug\PonavljanjeZad1.exe
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\bin\Debug\PonavljanjeZad1.pdb
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\obj\Debug\PonavljanjeZad1.exe
+C:\Users\Korisnik\source\repos\PonavljanjeZad1\PonavljanjeZad1\obj\Debug\PonavljanjeZad1.pdb
